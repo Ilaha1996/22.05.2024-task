@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\22.05.2024 tasks\\CarClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3746E7B-248D-40A9-973F-337ABDFBF575}|CarClass\\CarClass.csproj|c:\\users\\user\\desktop\\22.05.2024 tasks\\carclass\\carclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3746E7B-248D-40A9-973F-337ABDFBF575}|CarClass\\CarClass.csproj|solutionrelative:carclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3746E7B-248D-40A9-973F-337ABDFBF575}|CarClass\\CarClass.csproj|c:\\users\\user\\desktop\\22.05.2024 tasks\\carclass\\carclass\\carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3746E7B-248D-40A9-973F-337ABDFBF575}|CarClass\\CarClass.csproj|solutionrelative:carclass\\carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarClass.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\22.05.2024 tasks\\CarClass\\CarClass\\CarClass.cs",
+              "RelativeDocumentMoniker": "CarClass\\CarClass.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\22.05.2024 tasks\\CarClass\\CarClass\\CarClass.cs",
+              "RelativeToolTip": "CarClass\\CarClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:59:59.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\22.05.2024 tasks\\CarClass\\CarClass\\Program.cs",
+              "RelativeDocumentMoniker": "CarClass\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\22.05.2024 tasks\\CarClass\\CarClass\\Program.cs",
+              "RelativeToolTip": "CarClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:59:33.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
